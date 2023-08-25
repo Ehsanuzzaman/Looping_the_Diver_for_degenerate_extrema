@@ -12,7 +12,7 @@ Authors: Elinore Roebber (e.roebber@bham.ac.uk) & Pat Scott (p.scott@imperial.ac
 #### Source: https://diver.hepforge.org/
 
 # What this code does:
-I don't know Fortran. However, I wanted to modify it as much as possible to trace out the degenerate local minima/maxima of any multidimensional function. This code is one of the most naive possible ways I could think of to finish the task. If this code also helps you to accomplish your task for any research project, I would be very happy and glad that I could help.
+I don't know Fortran. However, I wanted to modify it as much as possible to trace out the degenerate local minima/maxima of any multidimensional function. This code is one of the naivest possible ways I could think of to finish the task. If this code also helps you to accomplish your task for any research project, I would be very happy and glad that I could help.
 
 # Steps to run it:
   1. Download and install Diver. ( Website: https://diver.hepforge.org/ )
